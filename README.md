@@ -36,7 +36,9 @@ but no. of P increase in denominator. Thus 2nd term keeps track of good o/p,
 
 
 **practical implementation**
+
 [click here](https://github.com/DevMAdi/Regression-Models/tree/master/Multiple%20Linear%20Regression)
--> when we used regressor.summary() in **back elimination** process.
+
+ when we used regressor.summary() in **back elimination** process.
 we got P-value that we compared with SL value
 we also got R(Sq). & adj. R(Sq). value. based upon them. we can find best model
